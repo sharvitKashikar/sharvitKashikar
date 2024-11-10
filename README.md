@@ -10,15 +10,26 @@
 
 
 
-[
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Full stack development
+- Advanced networking concepts.
+
+
+
+🤔 I’m looking for help with:
+- Developing a strong foundation in AI and system design
+- Improving social skills and building more connections
+
+💬 Ask me about:
+- Web development (HTML, CSS, JavaScript, React)
+- My recent projects in database management 
+
+📫 How to reach me:
+- GitHub: [@sharvit18](https://github.com/sharvit18)
+- LinkedIn: https://www.linkedin.com/in/sharvit-kashikar/
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love coffee and am deeply into programming! Also, I enjoy exploring ways technology can positively impact society.
+
