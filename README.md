@@ -10,12 +10,10 @@
 
 
 
-
+#About me
 🌱 I’m currently learning:
 - Full stack development
 - Advanced networking concepts.
-
-
 
 🤔 I’m looking for help with:
 - Developing a strong foundation in AI and system design
