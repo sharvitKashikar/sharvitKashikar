@@ -10,7 +10,8 @@
 
 
 
-#About me
+#About me:
+[
 🌱 I’m currently learning:
 - Full stack development
 - Advanced networking concepts.
