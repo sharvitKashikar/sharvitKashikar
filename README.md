@@ -1,5 +1,5 @@
 ## Hi there I'm Sharvit👋
-[![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) <br/>
 Between the brackets lies a universe waiting to be built🌍
 
 ## 🌐 Socials:
