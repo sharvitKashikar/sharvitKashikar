@@ -1,9 +1,6 @@
 ## Hi there I'm Sharvit👋
 [![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
-<img align="center" height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
-> DREAM CODE ACHIEVE
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvit-kashikar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skkashikar?s=21)  <br/>
   <br/>
