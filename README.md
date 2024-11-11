@@ -23,7 +23,7 @@ Between the brackets lies a universe waiting to be built🌍
 
 💬 Ask me about:
 - Web development (HTML, CSS, JavaScript, React)
-- My recent projects in database management 
+
 
 📫 How to reach me:
 - GitHub: [@sharvit18](https://github.com/sharvit18)
