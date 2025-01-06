@@ -22,7 +22,7 @@ Between the brackets lies a universe waiting to be built🌍
 - Improving social skills and building more connections
 
 💬 Ask me about:
-- Web development (HTML, CSS, JavaScript, React)
+- Web development (Full Stack web Dev)
 
 
 📫 How to reach me:
