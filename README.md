@@ -34,7 +34,7 @@ Between the brackets lies a universe waiting to be built🌍
 
 
 📫 How to reach me:
-- GitHub: [@sharvit18](https://github.com/sharvit18)
+- sharvitkashikar98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharvit-kashikar/
 
 😄 Pronouns: He/Him
