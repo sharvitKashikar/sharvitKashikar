@@ -3,12 +3,14 @@
 Results-driven Computer Science student with expertise in full-stack development, UI/UX design, and AI
 applications. Passionate about building efficient solutions and eager to contribute to innovative projects.
 
-##
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="max" alt="animated hello">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvit-kashikar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skkashikar?s=21)  <br/>
   <br/>
+
+ ##
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="max" alt="animated hello">
+
 
 
 # 💻 Tech Stack:
