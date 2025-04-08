@@ -31,7 +31,8 @@ applications. Passionate about building efficient solutions and eager to contrib
 
 🤔 I’m looking for help with:
 - Developing a strong foundation in AI and system design
-- ![](https://github-profile-trophy.vercel.app/?username=sharvitKashikar&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+  <br/>
+ ![](https://github-profile-trophy.vercel.app/?username=sharvitKashikar&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 
 💬 Ask me about:
