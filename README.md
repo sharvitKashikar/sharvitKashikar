@@ -37,19 +37,18 @@ applications. Passionate about building efficient solutions and eager to contrib
 🤔 I’m looking for help with:
 - Developing a strong foundation in AI and system design
   <br/>
- ## 
- ![](https://github-profile-trophy.vercel.app/?username=sharvitKashikar&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 
-💬 Ask me about:
+
+##💬 Ask me about:
 - Full Stack Web Development
 
 
-📫 How to reach me:
+## 📫 How to reach me:
 - Email: sharvitkashikar98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharvit-kashikar/
 
-😄 Pronouns: He/Him
+
 
 
 
