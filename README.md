@@ -1,7 +1,6 @@
 ## Hi there, I am Sharvit
 [![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) <br/>
-Results-driven Computer Science student with expertise in full-stack development, UI/UX design, and AI
-applications. Passionate about building efficient solutions and eager to contribute to innovative projects.
+Results-driven Computer Science student with expertise in full-stack development, UI/UX design . Passionate about building efficient solutions and eager to contribute to innovative projects.
 
 
 ## 🌐 Socials:
