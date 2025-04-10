@@ -34,13 +34,13 @@ applications. Passionate about building efficient solutions and eager to contrib
 - Full stack development
 - Advanced networking concepts.
 
-🤔 I’m looking for help with:
+## 🤔 I’m looking for help with:
 - Developing a strong foundation in AI and system design
   <br/>
 
 
 
-##💬 Ask me about:
+## 💬 Ask me about:
 - Full Stack Web Development
 
 
