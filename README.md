@@ -20,6 +20,9 @@ applications. Passionate about building efficient solutions and eager to contrib
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-5A29E4?style=for-the-badge&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-%235764AB.svg?style=for-the-badge&logo=recoil&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 
