@@ -1,7 +1,6 @@
 ## Hi there, I am Sharvit
 [![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) <br/>
-Results-driven Computer Science student with expertise in full-stack development and UI/UX design. Passionate about building efficient solutions and eager to contribute to innovative projects.
-
+I'm a passionate Computer Science undergrad who enjoys building things that solve real-world problems. From working on AI-driven crop disease prediction systems to designing efficient bus scheduling platforms for public transport, I love combining data, logic, and creativity to make smart systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvit-kashikar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skkashikar?s=21)  <br/>
@@ -34,10 +33,10 @@ Results-driven Computer Science student with expertise in full-stack development
 !🌱 I’m currently learning:
 - Full stack development
 - Advanced networking concepts.
+- AI/ML
 
-## 🤔 I’m looking for help with:
-- Developing a strong foundation in AI and system design
-  <br/>
+
+
 
 
 
@@ -48,6 +47,9 @@ Results-driven Computer Science student with expertise in full-stack development
 ## 📫 How to reach me:
 - Email: sharvitkashikar98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharvit-kashikar/
+
+Thanks for stopping by! ⚡
+
 
 
 
