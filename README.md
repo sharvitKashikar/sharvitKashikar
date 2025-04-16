@@ -1,6 +1,8 @@
 ## Hi there, I am Sharvit
 [![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) <br/>
-I'm a passionate Computer Science undergrad who enjoys building things that solve real-world problems. I love combining data, logic, and creativity to make smart systems.
+I'm a curious and hands-on Computer Science undergrad who genuinely enjoys turning ideas into real, usable tech. Whether it's solving everyday problems or building smarter systems, I love playing around with data, logic, and creativity to make things that actually help people.
+
+If you're working on something exciting or just want to geek out over code, feel free to reach out — I'm always up for a good collab or chat!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvit-kashikar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skkashikar?s=21)  <br/>
