@@ -1,6 +1,6 @@
 ## Hi there, I am Sharvit
 [![](https://visitcount.itsvg.in/api?id=Ro706&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) <br/>
-I'm a passionate Computer Science undergrad who enjoys building things that solve real-world problems. From working on AI-driven crop disease prediction systems to designing efficient bus scheduling platforms for public transport, I love combining data, logic, and creativity to make smart systems.
+I'm a passionate Computer Science undergrad who enjoys building things that solve real-world problems. I love combining data, logic, and creativity to make smart systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvit-kashikar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/skkashikar?s=21)  <br/>
