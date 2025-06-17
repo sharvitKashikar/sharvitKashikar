@@ -3,7 +3,7 @@
 I'm a curious and hands-on Computer Science undergrad who genuinely enjoys turning ideas into real, usable tech. Whether it's solving everyday problems or building smarter systems, I love playing around with data, logic, and creativity to make things that actually help people.
 
 If you're working on something exciting or just want to geek out over code, feel free to reach out — I'm always up for a good collab or chat!
-![Views](https://komarev.com/ghpvc/?username=sharvitKashikar&color=blue)
+
 
 
 ## 🌐 Socials:
