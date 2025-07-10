@@ -55,7 +55,7 @@ If you're working on something exciting or just want to geek out over code, feel
 
 ## About me:
 
-!🌱 I’m currently learning:
+🌱 I’m currently learning:
 - Full stack development
 - Advanced networking concepts.
 - AI/ML
@@ -72,6 +72,7 @@ If you're working on something exciting or just want to geek out over code, feel
 ## 📫 How to reach me:
 - Email: sharvitkashikar98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharvit-kashikar/
+- My Portfolio - https://sharvitkashikar.tech/ 
 
 Thanks for stopping by! ⚡
 
