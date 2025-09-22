@@ -1,6 +1,4 @@
 # Hi there, I am Sharvit
-[![](https://visitcount.itsvg.in/api?id=sharvitKashikar&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)  
-
 I'm a Computer Science undergraduate who enjoys turning ideas into real, usable technology. From designing lightweight databases to building AI-powered platforms, I focus on combining data, logic, and creativity to build practical solutions.  
 
 ---
