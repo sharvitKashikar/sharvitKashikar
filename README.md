@@ -10,9 +10,13 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 # Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,python,c,cpp,mongodb,postgresql,pinecone&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,python,c,cpp,mongodb,postgresql&theme=dark&perline=3" />
   </a>
+
+  <!-- PineconeDB (manual icon) -->
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" alt="PineconeDB" style="margin: 6px;" />
 </div>
+
  
 
 ---
