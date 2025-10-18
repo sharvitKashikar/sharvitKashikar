@@ -9,13 +9,27 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 
 # Tech Stack
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,python,c,cpp,mongodb,postgresql&theme=dark&perline=3" />
-  </a>
-
-  <!-- PineconeDB (manual icon) -->
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" alt="PineconeDB" style="margin: 6px;" />
+  <table border="0" cellspacing="10" cellpadding="0" style="border:none;">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=typescript" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=c" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" width="50"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=postgresql" width="50"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" alt="PineconeDB" style="border-radius:10px;"/></td>
+    </tr>
+  </table>
 </div>
+
+
+
 
  
 
@@ -37,16 +51,6 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 - GitHub Foundations  
 - Oracle Academy Database Foundations  
 - Front End Domination (Sheryians Coding School)  
-
----
-
-# Positions of Responsibility
-- **Coder, GDSC SIT Nagpur (Jul 2023 - Jul 2024)** – Led 10+ workshops, hackathons, and peer-learning sessions. Contributed to project development and community outreach.  
-
-- **Volunteer, Maitree Parivar NGO (Sep 2024 - Jan 2025)** – Redesigned and maintained the NGO website, organized multiple awareness and literacy events for 60+ children.  
-
-- **Volunteer, ICSIT-2025 Conference (Jul 2025 - Aug 2025)** – Managed student movement and event operations for an international conference on sustainability, innovation, and technology.  
-
 ---
 
 # Contact
