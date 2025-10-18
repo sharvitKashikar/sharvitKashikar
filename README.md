@@ -5,6 +5,7 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="max" alt="animated hello">
 
+
 ---
 
 # Tech Stack
@@ -33,23 +34,6 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
   </table>
 </div>
 
-
-
-
-
- 
-
----
-
-# Featured Projects
-- **[FiloDB](https://github.com/sharvitKashikar/FiloDB)** – Lightweight database system in Go with B+ tree storage, memory-mapped I/O optimization, and ACID transactions. Achieved 2,376 ops/sec query performance.  
-
-- **[BriefAI](https://github.com/sharvitKashikar/Brief-AI)** – AI-powered summarization platform (BART-based) with 43.40% ROUGE-L accuracy, supporting text, URL, and PDF inputs. Reduced summarization time by 21.7%.  
-
-- **[OneStack](https://github.com/onestack-team)** – Unified development workflow platform integrating GitHub and AWS RDS. Features a drag-and-drop workflow editor and Node.js REST API with authentication.  
-
-- **[Portfolio Website](https://sharvitkashikar.tech/)** – Personal portfolio built with React, TypeScript, and TailwindCSS, featuring reusable components and responsive design.  
-
 ---
 
 # Certifications
@@ -59,11 +43,4 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 - Front End Domination (Sheryians Coding School)  
 ---
 
-# Contact
-- Email: sharvitkashikar98@gmail.com  
-- LinkedIn: [Sharvit Kashikar](https://www.linkedin.com/in/sharvit-kashikar)  
-- Portfolio: [sharvitkashikar.tech](https://sharvitkashikar.tech)  
-
----
-
-Thanks for visiting.
+Thanks for visiting! 
