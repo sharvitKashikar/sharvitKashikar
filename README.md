@@ -42,5 +42,21 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
 - Oracle Academy Database Foundations  
 - Front End Domination (Sheryians Coding School)  
 ---
+# The Architect's Protocol
 
-Thanks for visiting! 
+```typescript
+// The process is the poem. The outcome is the solution.
+try {
+  const blueprint = await Reality.compile({
+    schema: "Practicality",
+    source: "./data/logic_gate_registry", 
+    entropy: 0.05, 
+  });
+
+  if (blueprint.isStable) {
+    blueprint.deploy();
+  }
+} catch (complex_system_error) {
+  // If the system fails, it's not broken; it simply demands a better definition.
+  console.log("Rethinking the foundations: Compiling a clearer truth...");
+}
