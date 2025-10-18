@@ -16,6 +16,11 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
       <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"/></td>
     </tr>
     <tr>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=express" width="50"/></td>
+      <td><img src="https://skillicons.dev/icons?i=prisma" width="50"/></td>
+    </tr>
+    <tr>
       <td><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
       <td><img src="https://skillicons.dev/icons?i=c" width="50"/></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"/></td>
@@ -27,6 +32,7 @@ I'm a Computer Science undergraduate who enjoys turning ideas into real, usable 
     </tr>
   </table>
 </div>
+
 
 
 
